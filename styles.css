@@ -1,0 +1,63 @@
+        .container {
+            width:98%;
+            height:320px;
+            background-color:rgb(128, 30, 0);
+            padding-top:20px;
+            padding-left:15px;
+            padding-right:15px;
+        }
+        #prv-box {
+            float:left;
+            width:31%;
+            height:240px;
+            background-color:white;
+            border:solid black;
+            font-size: large;
+        }
+        #vtor-box {
+            float:left;
+            width:31%;
+            height:240px;
+            background-color:white; 
+            border:solid black;
+            margin-left:55px;
+        }
+        #tret-box {
+            float:left;
+            width:31%;
+            height:240px;
+            background-color:white;
+            border:solid black;
+            margin-left:55px;
+        }
+        h1 {
+            color :orangered
+        }
+        body {
+            text-align: center;
+        }
+        .container2 {
+            width:98%;
+            height:390px;
+            background-color:rgb(18, 126, 214);
+            padding-top:20px;
+            padding-left:15px;
+            padding-right:15px;
+        }
+        #c2-1 {
+            float:left;
+            width: 45%;
+            height:330px;
+            background-color:white;
+            border:solid black;
+            font-size: large;
+        }
+        #c2-2 {
+            float:right;
+            width:45%;
+            height:330px;
+            background-color:white; 
+            border:solid black;
+            margin-left:55px;
+        }
+        
